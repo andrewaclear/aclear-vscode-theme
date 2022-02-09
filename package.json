@@ -1,0 +1,57 @@
+{
+	"name": "aclear",
+	"displayName": "aclear colour theme",
+	"description": "A modern Visual Studio Code theme.",
+	"version": "0.1.1",
+	"publisher": "Andrew D'Amario",
+	"license": "MIT",
+	"keywords": [
+		"theme",
+		"contrast",
+		"dark",
+		"light",
+		"clean",
+		"modern",
+		"slick",
+		"clear",
+		"a"
+	],
+	"icon": "icon.png",
+	"homepage": "https://github.com/enkia/tokyo-night-vscode-theme",
+	"repository": {
+		"url": "https://github.com/enkia/tokyo-night-vscode-theme",
+		"type": "git"
+	},
+	"bugs": {
+		"url": "https://github.com/enkia/tokyo-night-vscode-theme/issues"
+	},
+	"galleryBanner": {
+		"color": "#1f2335",
+		"theme": "dark"
+	},
+	"engines": {
+		"vscode": "^1.17.0"
+	},
+	"categories": [
+		"Themes",
+		"Other"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "aclear-dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/aclear-dark.json"
+			},
+			{
+				"label": "aclear-light",
+				"uiTheme": "vs",
+				"path": "./themes/aclear-light.json"
+			}
+		]
+	},
+	"scripts": {
+		"package": "vsce package",
+		"publish": "vsce publish"
+	}
+}
