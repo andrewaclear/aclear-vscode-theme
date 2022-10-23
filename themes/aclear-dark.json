@@ -150,7 +150,7 @@
         "statusBarItem.remoteForeground": "#f8fafd",
         "tab.activeBackground": "#282c34",
         "tab.activeForeground": "#dcdcdc",
-        "tab.border": "#181a1f",
+        "tab.border": "#2b2f38",
         "tab.hoverBackground": "#2b2f38",
         "tab.inactiveBackground": "#21252b",
         "tab.unfocusedHoverBackground": "#252a30",
@@ -194,7 +194,9 @@
         "terminal.selectionBackground": "#39404d",
         "textBlockQuote.background": "#2e3440",
         "textBlockQuote.border": "#4b5362",
-        "textLink.foreground": "#61afef",
+        "textLink.foreground": "#3a88ff",
+        "textLink.activeForeground": "#1f78ff",
+        "editorLink.activeForeground": "#1f78ff",
         "textPreformat.foreground": "#dbc682",
         "titleBar.activeBackground": "#2f333d",
         "titleBar.activeForeground": "#9da5b4",
@@ -236,7 +238,7 @@
                 "comment.block.documentation punctuation"
             ],
             "settings": {
-                "foreground": "#565f8989"
+                "foreground": "#6b739c89"
             }
         },
         {
@@ -256,7 +258,7 @@
                 "log.date"
             ],
             "settings": {
-                "foreground": "#6a75a889"
+                "foreground": "#848db589"
             }
         },
         {
@@ -268,7 +270,7 @@
                 "comment.block.documentation entity.name.type.instance"
             ],
             "settings": {
-                "foreground": "#7582ba89",
+                "foreground": "#8d98c789",
                 "fontStyle": ""
             }
         },
