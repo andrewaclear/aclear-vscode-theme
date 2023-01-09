@@ -1,56 +1,63 @@
 {
-  "name": "aclear",
-  "displayName": "aclear colour theme",
-  "description": "A clean and modern dark and light VScode theme with soft fresh colours.",
-  "version": "0.1.1",
-  "publisher": "andrewaclear",
-  "license": "MIT",
-  "keywords": [
-    "theme",
-    "contrast",
-    "dark",
-    "light",
-    "clean",
-    "modern",
-    "slick",
-    "clear",
-    "a"
-  ],
-  "icon": "icon.png",
-  "homepage": "https://github.com/andrewaclear/aclear-vscode-theme",
-
-  "repository": {
-    "url": "https://github.com/andrewaclear/aclear-vscode-theme",
-    "type": "git"
-  },
-  "bugs": {
-    "url": "https://github.com/andrewaclear/aclear-vscode-theme/issues"
-  },
-  "galleryBanner": {
-    "color": "#343a45",
-    "theme": "dark"
-  },
-  "engines": {
-    "vscode": "^1.17.0"
-  },
-  "categories": [
-    "Themes", "Other"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "aclear-dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/aclear-dark.json"
-      }, {
-        "label": "aclear-light",
-        "uiTheme": "vs",
-        "path": "./themes/aclear-light.json"
-      }
-    ]
-  },
-  "scripts": {
-    "package": "vsce package",
-    "publish": "vsce publish"
-  }
+	"name": "aclear",
+	"displayName": "aclear colour theme",
+	"description": "A clean and modern dark and light VScode theme with soft fresh colours.",
+	"version": "0.1.1",
+	"publisher": "andrewaclear",
+	"license": "MIT",
+	"keywords": [
+		"theme",
+		"contrast",
+		"dark",
+		"light",
+		"clean",
+		"modern",
+		"slick",
+		"clear",
+		"a"
+	],
+	"icon": "icon.png",
+	"homepage": "https://github.com/andrewaclear/aclear-vscode-theme",
+	"repository": {
+		"url": "https://github.com/andrewaclear/aclear-vscode-theme",
+		"type": "git"
+	},
+	"bugs": {
+		"url": "https://github.com/andrewaclear/aclear-vscode-theme/issues"
+	},
+	"galleryBanner": {
+		"color": "#343a45",
+		"theme": "dark"
+	},
+	"engines": {
+		"vscode": "^1.17.0"
+	},
+	"categories": [
+		"Themes",
+		"Other"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "aclear-dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/aclear-dark.json"
+			},
+			{
+				"label": "aclear-light",
+				"uiTheme": "vs",
+				"path": "./themes/aclear-light.json"
+			}
+		]
+	},
+	"scripts": {
+		"package": "vsce package",
+		"publish": "vsce publish"
+	},
+	"__metadata": {
+		"id": "4963ca01-48d4-4404-bb2d-ea91f7496c77",
+		"publisherDisplayName": "Andrew D'Amario",
+		"publisherId": "dddba3a4-02d1-4e61-891e-b73f21ca8030",
+		"isPreReleaseVersion": false
+	}
 }
