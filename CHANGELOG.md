@@ -9,3 +9,8 @@
 `2023-01-09`
 
 - Update information
+
+## 0.1.2
+`2023-01-09`
+
+- Update name and information
