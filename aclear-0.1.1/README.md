@@ -8,14 +8,15 @@
 <br><br>**Semantic Highlighting:** If you prefer all variables inside functions to be the same color, disable semantic highlighting in settings. Otherwise, parameters used will be dimmer in color. [Submit an issue](https://github.com/enkia/tokyo-night-vscode-theme/issues/new) if you notice anything 'off' with semantic highlighting as I've just recently provided support for it.
 
 ## Screenshots
-Tokyo Night
-![Screenshot - Tokyo Night](https://raw.githubusercontent.com/enkia/tokyo-night-vscode-theme/master/static/ss_tokyo_night.png)
 
-Tokyo Night Storm
-![Screenshot - Tokyo Night Storm](https://raw.githubusercontent.com/enkia/tokyo-night-vscode-theme/master/static/ss_tokyo_night_storm.png)
+aclear dark
 
-Tokyo Night Light
-![Screenshot - Tokyo Night Light](https://raw.githubusercontent.com/enkia/tokyo-night-vscode-theme/master/static/ss_tokyo_day.png)
+![Screenshot - aclear light](static/aclear-dark.png)
+
+aclear light (parsed from dark theme)
+
+![Screenshot - aclear light](static/aclear-light.png)
+
 
 ## Disabling Italics
 Paste this into your [settings.json](https://code.visualstudio.com/docs/getstarted/settings#_settings-file-locations) to disable italics.
