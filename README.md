@@ -1,4 +1,4 @@
-# [aclear-vscode-theme](https://marketplace.visualstudio.com/)
+# [aclear-vscode-theme](https://marketplace.visualstudio.com/items?itemName=andrewaclear.aclear)
 [![Version](https://img.shields.io/github/package-json/v/andrewaclear/aclear-vscode-theme)](https://github.com/andrewaclear/aclear-vscode-theme)
 [![Issues](https://img.shields.io/github/issues/andrewaclear/aclear-vscode-theme)](https://github.com/andrewaclear/aclear-vscode-theme/issues)
 
