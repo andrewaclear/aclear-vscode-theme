@@ -14,3 +14,8 @@
 `2023-01-09`
 
 - Update name and information
+
+## 0.1.3
+`2023-01-09`
+
+- Move light theme parsing script
