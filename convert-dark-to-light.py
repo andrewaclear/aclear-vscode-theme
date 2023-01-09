@@ -1,5 +1,5 @@
 # Convert dark theme to light
-# Copywrite: Andrew D'Amario, August 2022 
+# by Andrew D'Amario, © August 2022 
 
 from statistics import mean, median
 from sys import stderr
