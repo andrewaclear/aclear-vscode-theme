@@ -2,7 +2,7 @@
 [![Version](https://img.shields.io/github/package-json/v/andrewaclear/aclear-vscode-theme)](https://github.com/andrewaclear/aclear-vscode-theme)
 [![Issues](https://img.shields.io/github/issues/andrewaclear/aclear-vscode-theme)](https://github.com/andrewaclear/aclear-vscode-theme/issues)
 
-> by Andrew D'Amario, © August 2022
+> by Andrew D'Amario © August 2022
 
 A clean and modern dark and light VScode theme with soft fresh colours.
 
